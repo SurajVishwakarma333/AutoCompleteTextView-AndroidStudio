@@ -12,6 +12,8 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="This is an AutoCompleteTextView" />
+        
+# OUTPUT        
 
 ![Screenshot_2022_0611_122012](https://user-images.githubusercontent.com/101108540/173177025-f8a67f9e-a28e-46b9-8f29-f982304824c7.jpg)
 
