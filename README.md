@@ -3,7 +3,7 @@
 
 • A list of suggestions is displayed in drop down menu from which user can choose an item which actually replace the content of Editbox with that.
 
-C It is a subclass of EditText class so we can inherit all the properties of EditText in a AutoCompleteTextView.
+• It is a subclass of EditText class so we can inherit all the properties of EditText in a AutoCompleteTextView.
 
 # syntax :
        
