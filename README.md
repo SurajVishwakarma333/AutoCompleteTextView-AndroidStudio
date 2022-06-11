@@ -20,6 +20,7 @@
 
 # In order to display AutoCompleteTextView text in drop down list we have to use Array Adapter To Display Text Values In AutoCompleteTextView :
 • To display the Array content in an autocompletetextview we need to implement Adapter. 
+
 • In AutoCompleteTextView we mainly display text values so we use Array Adapter for that.
 
 
